@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is JaeMin Seo and I'm a Backend/DevOps engineer. I'm from South Korea and currently working at Samsung.  
+My name is JaeMin Seo and I'm a Backend/DevOps engineer.  
 
 [![](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:86sjmjm@gmail.com)](mailto:86sjmjm@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jaemin-seo-82799a165/)](https://www.linkedin.com/in/jaemin-seo-82799a165/)
