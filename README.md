@@ -21,7 +21,7 @@ Tech blog - https://gentledev10.github.io
 ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![](https://img.shields.io/badge/Spinnaker-139BB4?style=flat&logo=spinnaker&logoColor=white)
-![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)
 ![](https://img.shields.io/badge/GithubActions-2088FF?style=flat&logo=github-actions&logoColor=white)
