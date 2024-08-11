@@ -27,6 +27,7 @@ Tech blog - https://gentledev10.github.io
 ![](https://img.shields.io/badge/GithubActions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
