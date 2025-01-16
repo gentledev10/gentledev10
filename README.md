@@ -29,11 +29,6 @@ Tech blog - https://gentledev10.github.io
 ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=gentledev10&hide=issues,contribs&count_private=true&show_icons=true&border_color=2e4058&line_height=40)](https://github.com/gentledev10/gentledev10)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gentledev10&hide=typescript,javascript,html,css,scss&border_color=2e4058&langs_count=3)](https://github.com/gentledev10/gentledev10)
-
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgentledev10&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
